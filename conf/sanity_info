@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/fiorentinoing/devel/nanopi-neo/tmp
+SSTATE_DIR /home/fiorentinoing/devel/nanopi-neo/sstate-cache
+NATIVELSBSTRING ubuntu-18.04
